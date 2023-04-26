@@ -17,7 +17,7 @@ You are required to model the price of houses with the available independent var
 Multiple linear regression, Ridge and Lasso regression are used to build a predictive model for the price of houses in Australia.
 
 ## Conclusions
-Risge regression with a value of lambda of 10 is the best performing model with a test r-squared value of 91%
+Ridge regression with a value of lambda of 10 is the best performing model with a test r-squared value of 91%
 
 ## Contact
 Created by [@AshiAhuja] - feel free to contact me!
